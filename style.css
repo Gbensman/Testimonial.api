@@ -1,6 +1,6 @@
 .contain{
     width: 400px;
-    margin: 200px;
+    margin: 150px auto 0 auto;
 }
 
 .image img{
@@ -11,4 +11,8 @@
 }
 .play{
     width: 100%;
+}
+.contain-btn{
+ width: 400px;
+ margin: 0 auto;   
 }
